@@ -126,7 +126,6 @@ class DOMEvent {
 	}
 }
 
-
 /**
  * DOMDocumentWrapper class simplifies work with DOMDocument.
  *

@@ -1,5 +1,4 @@
 <?php
-
 require('lib/phpQuery.php');
 
 $fileContent = file_get_contents("https://hotline.ua/computer/noutbuki-netbuki/");
